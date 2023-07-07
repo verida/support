@@ -1,8 +1,13 @@
-# Support
+# Verida Support
 
+## Get help
 
-The [Verida Developer Portal](https://developers.verida.io/) contains developer documentation, demo applications, interactive tutorials and more.
+If you need help or want to discuss how to improve Verida, please join our active community on [Discord](http://discord.verida.io/), the Verida Team will be there.
 
-If you need help or want to suggest a feature, the best place to do so is via [Discord](http://discord.verida.io/).
+Additionally, the [Verida Developer Portal](https://developers.verida.network/) contains dedicated documentation, demo applications, interactive tutorials and more.
 
-If you want to report a bug, head to the [ISSUE TEMPLATE](https://github.com/verida/support/tree/develop/.github/ISSUE_TEMPLATE) folder for the template to raise a new bug in GitHub.
+## Report an bug or suggest an enhancement
+
+If you want to report a bug or suggest an enhancement, [please create a new Issue](https://github.com/verida/support/issues/new/choose).
+
+You can also report it in the [corresponding repository](https://github.com/orgs/verida/repositories) if you know which one it is.
